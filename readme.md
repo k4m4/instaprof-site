@@ -3,8 +3,6 @@
 	InstaProf
 </h1>
 
---
-
 <p align="center">A minimal service to view full-size Instagram profile pictures.</p>
 
 ---
