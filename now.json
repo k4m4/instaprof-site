@@ -1,0 +1,17 @@
+{
+  "name": "instaprof",
+  "version": 2,
+  "alias": [
+    "instaprof.now.sh",
+    "insta-prof.now.sh"
+  ],
+  "builds": [
+    { "src": "/static/*", "use": "@now/static" },
+    { "src": "package.json", "use": "@now/next" },
+    { "src": "index.js", "use": "@now/node" }
+  ],
+  "routes": [
+    { "src": "/api/(.*)", "dest": "/index.js" },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}

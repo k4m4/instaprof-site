@@ -1,0 +1,33 @@
+{
+  "name": "instaprof.now",
+  "version": "1.0.0",
+  "description": "Minimal service to view full-size Instagram profile pictures",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "nikolaskama.me",
+    "email": "nikolaskam@gmail.com"
+  },
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "now-build": "next build",
+    "export": "next export"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "instagram-profile-picture": "^1.0.5",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-input-autosize": "^2.2.1"
+  },
+  "keywords": [
+    "instagram",
+    "profile",
+    "picture",
+    "full size"
+  ]
+}
