@@ -77,7 +77,7 @@ class Index extends PureComponent {
         <section>
           <h1>InstaProf</h1>
 
-          <p>Enter an Instagram account username to view it's profile picture
+          <p>Enter an Instagram account username to view its profile picture
           in <i>full size</i>.</p>
 
           <form onSubmit={this.handleSubmit}>
