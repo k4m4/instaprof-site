@@ -65,7 +65,6 @@ class Index extends PureComponent {
         <Head>
           <title>InstaProf - View full size Instagram profile pics</title>
           <meta name="description" content="View full size Instagram profile pictures." />
-          <meta name="keywords" content="insta, profile picture viewer, full size, instagram profile picture viewer, instadp" />
           <link rel="icon" type="image/png" href="/static/favicon.png" />
           <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
           <meta name="google-site-verification" content="-OUQErdFfpMCR3jPeSTsmuvA87QCFwTYRgUluvSWa5Q" />
