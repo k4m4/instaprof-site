@@ -64,13 +64,12 @@ class Index extends PureComponent {
       <main>
         <Head>
           <title>InstaProf - View full size Instagram profile pics</title>
-          <link rel='icon' type='image/png' href='/static/favicon.png' />
-          <meta
-            name="viewport"
-            content="width=device-width, initial-scale=1, user-scalable=no"
-          />
+          <meta name="description" content="View full size Instagram profile pictures." />
+          <meta name="keywords" content="insta, profile picture viewer, full size, instagram profile picture viewer, instadp" />
+          <link rel="icon" type="image/png" href="/static/favicon.png" />
+          <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
           <meta name="google-site-verification" content="-OUQErdFfpMCR3jPeSTsmuvA87QCFwTYRgUluvSWa5Q" />
-          <link rel='stylesheet' href='/static/index.css' />
+          <link rel="stylesheet" href="/static/index.css" />
           <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet" />
         </Head>
 
