@@ -3,7 +3,8 @@
   "version": 2,
   "alias": [
     "instaprof.now.sh",
-    "insta-prof.now.sh"
+    "insta-prof.now.sh",
+    "instaprof.xyz"
   ],
   "builds": [
     { "src": "/static/*", "use": "@now/static" },
