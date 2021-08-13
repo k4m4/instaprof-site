@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "instagram-profile-picture": "^1.0.5",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-input-autosize": "^2.2.1"
