@@ -17,7 +17,7 @@
     "export": "next export"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "instagram-profile-picture": "^1.0.5",
     "next": "^9.3.2",
     "react": "^16.8.6",
